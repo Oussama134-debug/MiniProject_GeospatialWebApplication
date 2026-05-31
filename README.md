@@ -35,7 +35,6 @@ mini-projet-gis/
 │   ├── Provinces_WGS84.*
 │   └── communes_WGS84.*
 ├── README.md
-└── PROJECT_MAP.md
 ```
 
 ## Installation
@@ -49,8 +48,9 @@ streamlit run app.py
 
 ## Déploiement
 
-Déployé sur Streamlit Cloud : [URL à compléter]
+Déployé sur Streamlit Cloud : https://9wjrahhuw3xpe6wxvbw85j.streamlit.app/
 
 ## Auteur
 
-Projet réalisé dans le cadre du module SIG — Systèmes d'Information Géographique.
+Projet réalisé dans le cadre du module SIG — Systèmes d'Information Géographique at Ecole Hassania des Travaux Publics
+Par: Monadel Oussama & Mohammed Bouloud
