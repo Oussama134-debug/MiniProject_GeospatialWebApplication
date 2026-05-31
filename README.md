@@ -41,7 +41,7 @@ mini-projet-gis/
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone <(https://github.com/Oussama134-debug/MiniProject_GeospatialWebApplication)>
 cd mini-projet-gis
 pip install -r requirements.txt
 streamlit run app.py
